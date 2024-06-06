@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 const NMAX int = 2000
+anjay
 
 type User struct {
 	Name, Email, Password, Role string
